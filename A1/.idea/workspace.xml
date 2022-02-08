@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="A1" targetName="A1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f292abb-8e3f-44f6-99f9-8f78051ce77d" name="Default Changelist" comment="Fix CG" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oLBLso8bRzLBzlviS1EHi4H8Oc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager">
+    <configuration name="A1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="A1" RUN_TARGET_NAME="A1" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f292abb-8e3f-44f6-99f9-8f78051ce77d" name="Default Changelist" comment="" />
+      <created>1613055938177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613055938177</updated>
+      <workItem from="1613055939801" duration="5869000" />
+      <workItem from="1613123148420" duration="1445000" />
+      <workItem from="1613178726404" duration="843000" />
+      <workItem from="1613222083965" duration="611000" />
+      <workItem from="1613406642894" duration="6572000" />
+      <workItem from="1613464604009" duration="7864000" />
+      <workItem from="1613512462190" duration="1050000" />
+      <workItem from="1613575240624" duration="19824000" />
+      <workItem from="1613850163367" duration="884000" />
+      <workItem from="1613851086988" duration="11646000" />
+      <workItem from="1613903256665" duration="4777000" />
+      <workItem from="1613925876722" duration="615000" />
+      <workItem from="1614197743919" duration="1985000" />
+      <workItem from="1614200990241" duration="1043000" />
+      <workItem from="1614202054987" duration="140000" />
+      <workItem from="1614202210239" duration="1854000" />
+      <workItem from="1614206718298" duration="53000" />
+      <workItem from="1614206830221" duration="11000" />
+      <workItem from="1614207976467" duration="50000" />
+      <workItem from="1614208480760" duration="66000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add A1">
+      <created>1613598830102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613598830102</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Renamed fields of struct">
+      <created>1613599366022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613599366022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix CG">
+      <created>1613861453377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613861453377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add lab A1">
+      <created>1613910870105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613910870105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add lab A1">
+      <created>1613911395586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613911395586</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix CG">
+      <created>1614198269593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614198269593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="upstream/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add A1" />
+    <MESSAGE value="Renamed fields of struct" />
+    <MESSAGE value="Add lab A1" />
+    <MESSAGE value="Fix CG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix CG" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
